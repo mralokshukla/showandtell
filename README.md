@@ -1,6 +1,6 @@
 # Show and Tell
 
-* More about me:[LinkedIn Profile](https://www.linkedin.com/in/mralokshukla/)
+* [My LinkedIn Profile](https://www.linkedin.com/in/mralokshukla/)
 
 ## What is this all about?
 
