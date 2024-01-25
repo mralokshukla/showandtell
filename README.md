@@ -3,7 +3,7 @@
 ## What is this about
 
 * Digital Transformation Journey presentation to a customer
-  (This is part of NUS-FINTECH course)
+(This is part of NUS-FINTECH course)
 
 
 
